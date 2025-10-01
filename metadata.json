@@ -1,0 +1,7 @@
+{
+  "name": "Smart AI Calendar Assistant con MIC",
+  "description": "An intelligent calendar application that allows you to manage your schedule through a conversational AI. Create, read, and summarize events using text or voice commands. Schedule automated daily summaries delivered right to the chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
